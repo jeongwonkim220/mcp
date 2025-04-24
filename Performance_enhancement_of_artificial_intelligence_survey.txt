@@ -1,0 +1,17 @@
+# Performance enhancement of artificial intelligence: A survey
+
+This survey presents a comprehensive analysis and unique perspectives on the performance enhancement of artificial intelligence. It offers valuable insights that drive innovation and improve machine learning applications. The research discusses various techniques and methodologies for enhancing AI performance, focusing on their implications across multiple domains.
+ 
+**Author(s)**: M Krichen; MS Abdalzaher
+**Published Date**: 2024-01-01
+
+## Abstract
+The field of artificial intelligence has been advancing rapidly, with performance enhancement techniques playing a critical role in the development of robust AI systems. This survey provides an overview of the current state of research in this area, highlighting key advancements, challenges, and future directions.
+
+## Key Points
+- Analysis of performance enhancement techniques in AI
+- Overview of methodologies used for improving AI systems
+- Discussion on implementation strategies and their effectiveness
+- Insights into the future of AI performance enhancement
+
+For more detailed information, please refer to the full article at the original publication.
